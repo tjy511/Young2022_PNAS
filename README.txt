@@ -9,7 +9,7 @@ The script 'A_trackBed.m' produces a time series of bed depths (relative to the 
 
 The script 'B_basalMelt.m' solves for basal melt rates by combining contemporaneous observations of vertical strain rate and bed depth.
 
-Note 1: Script 'B_basalmelt.m' is currently missing commands to calculate error--the newest version of this script is on an old computer halfway around the world (sorry!). 
+Note 1: Script 'B_basalmelt.m' is currently incomplete--the newest version of this script is on an old computer halfway around the world (sorry!). 
 Note 2: Scripts are dependent on the fmcw package from Stewart (2018) and the output data from Young et al. (2019). 
 
 REFERENCES
